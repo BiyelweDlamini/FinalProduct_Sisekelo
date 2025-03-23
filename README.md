@@ -1,1 +1,1 @@
-//This is a website for Sisekelo Bookshop
+This is a website for Sisekelo Bookshop
